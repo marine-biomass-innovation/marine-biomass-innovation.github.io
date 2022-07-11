@@ -33,6 +33,9 @@ tagline:              Developing sustainable marine based entrepreneurship for l
 # A list of keywords for your blog
 keywords:              []
 
+url: https://marine-biomass-innovation.github.io
+baseurl: ""
+
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
