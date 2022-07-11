@@ -8,8 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Holly is a Graduate Bioinformatician with Black Ochre Data Labs (Telethon Kids Institute/Australian National University) working on Indigenous 
-Genomics on Kaurna Country (Adelaide) in Australia. 
+    Holly is a Graduate Bioinformatician with Black Ochre Data Labs (Telethon Kids Institute/Australian National University) working on Indigenous Genomics on Kaurna Country (Adelaide) in Australia. 
     
     Open `_data/authors.yml` to edit this text.
 
