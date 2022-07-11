@@ -47,7 +47,7 @@ author:
   name:                Holly Martin
   email:               holly.martin@telethonkids.org.au
   # # Used by `jekyll-seo-tag`:
-  # twitter:             _holly_martin_
+  # twitter:            "_holly_martin_"
 
 # Add links to the sidebar.
 menu:
