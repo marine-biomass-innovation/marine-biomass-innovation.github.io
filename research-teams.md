@@ -4,7 +4,7 @@ title: Research Teams
 
 The MBI project is a highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies.
 
-![Work Package Structure](assets/img/MBI_WPT_structure.png
+![Work Package Structure](assets/img/MBI_WPT_structure.png)
 
 ## Work Package Teams
 
