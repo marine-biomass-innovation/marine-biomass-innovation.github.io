@@ -58,5 +58,5 @@ For the analysis, Uniba (Italy) will take advantage of established workflows by 
 i) preliminary assumptions of the marine domain also provided by other WPTs as well Indigenous communities, 
 ii) computational and interpretable performances (such as goodness, robustness, or scalability of the proposed methodology, 
 iii) structure of data under study and 
-iv) their ability to link biological systems and industrial scenarios.
+iv) their ability to link biological systems and industrial scenarios
 
