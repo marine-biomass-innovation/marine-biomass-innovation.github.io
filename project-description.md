@@ -14,4 +14,3 @@ In partnership with coastal rural and Mi’kmaq Communities across three regions
 <h2>Innovation</h2>
 This is a unique inter-disciplinary project that brings together Mi’kmaw and non-Indigenous communities, academic partners, enterprises, and stakeholders, and employs a collaborative research approach that integrates natural sciences with social sciences and “Western” or scientific knowledge systems with equal validation and inclusion of Mi’kmaw knowledge systems. Through Two-Eyed Seeing, a Mi’kmaw conceptual framework for research coined by Elder Albert Marshall, this research aims to recognize and validate Mi’kmaw knowledge systems alongside Western scientific investigation. We recognize that cultural sustainability and healthy populations are integral to resilient rural regions and that eco-innovation is key to the economic resilience of these communities.
 
-test edit.
