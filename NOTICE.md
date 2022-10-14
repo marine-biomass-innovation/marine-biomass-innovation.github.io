@@ -10,7 +10,7 @@ sitemap: false
 
 ## Hydejack 9
 
-Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
+Copyright © 2020 Florian Klampfer <https://qwtel.com/>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the [GNU General Public Licence][GNU] as published by
