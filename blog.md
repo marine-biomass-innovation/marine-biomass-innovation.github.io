@@ -1,9 +1,8 @@
 ---
-title: Mi'kmaw Community Partners
+layout: list
+title: Posts
+description: >
+  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
+  Check out the `blog` layout for comparison.
+grouped: true
 ---
-
-<h2>Bay St. George</h2>
-Text
-
-<h2>Great Northern Peninsula</h2>
-Text
