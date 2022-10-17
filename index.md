@@ -5,3 +5,7 @@ cover: true
 ---
 
 Text content for landing Page
+
+## header 2
+
+Text
