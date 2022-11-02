@@ -39,7 +39,7 @@ baseurl: ""
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/mbilogo.png
+logo:                  /assets/img/newmbilogo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
