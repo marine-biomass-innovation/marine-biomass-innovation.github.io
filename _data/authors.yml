@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Holly Martin
-  email:             holly.martin@telethonkids.org.au
+  name:                MBI Project
+  email:               admin@mbiproject.ca
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Holly is a Graduate Bioinformatician with Black Ochre Data Labs (Telethon Kids Institute/Australian National University) working on Indigenous Genomics on Kaurna Country (Adelaide) in Australia. 
+    Text about the author. 
     
     Open `_data/authors.yml` to edit this text.
 
@@ -23,8 +23,8 @@ author1:
   # Social media icons in sidebar
   # Comment/uncomment to show/hide
   # Rearrange to change the order in which they appear
-  social:
-    # twitter:         '_holly_martin_'
+  #social:
+    # twitter:         ''
     # github:          'marine-biomass-innovation'
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
