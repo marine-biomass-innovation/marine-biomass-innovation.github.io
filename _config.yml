@@ -44,10 +44,10 @@ logo:                  /assets/img/squarelogo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Holly Martin
-  email:               holly.martin@telethonkids.org.au
+  name:                MBI Project
+  email:               admin@mbiproject.ca
   # # Used by `jekyll-seo-tag`:
-  # twitter:            "_holly_martin_"
+  # twitter:            ""
 
 # Add links to the sidebar.
 menu:
